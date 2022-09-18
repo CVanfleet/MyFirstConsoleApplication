@@ -1,0 +1,15 @@
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net6.0/MyFirstConsoleApplication
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net6.0/MyFirstConsoleApplication.deps.json
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net6.0/MyFirstConsoleApplication.runtimeconfig.json
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net6.0/MyFirstConsoleApplication.dll
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net6.0/MyFirstConsoleApplication.pdb
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.csproj.AssemblyReference.cache
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.AssemblyInfo.cs
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.dll
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/refint/MyFirstConsoleApplication.dll
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.pdb
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/MyFirstConsoleApplication.genruntimeconfig.cache
+/Users/claytonvanfleet/BYU-I/fall2022/soft-dev-.net/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net6.0/ref/MyFirstConsoleApplication.dll
